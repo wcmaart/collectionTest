@@ -4,7 +4,7 @@ SETLOCAL ENABLEDELAYEDEXPANSION
 REM Setting up GitHub credentials
 SET GITHUB_TOKEN=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
 SET GITHUB_USER=linguaphile
-SET REPO_NAME=wcmaart/collectionTest
+SET REPO_NAME=collectionTest
 
 REM Navigating to your local repository folder
 CD C:\Users\Public\feeds2\collection
